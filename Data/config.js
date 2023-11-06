@@ -1,12 +1,11 @@
 
-export const DomainURLMain = 'https://hunrvas.com/';
-export const AppName = 'Hunt VAS';
+export const DomainURLMain = 'https://mevatiegro.com/';
+export const AppName = 'MEVATI EGRO';
 
 export const Contactinfo = {
-    ContactMobile: '+14124455745',
-    ContactAddress: '3rd Floor, Bhabua, kaimur, Bihar, 821101 IN.',
-    ContactEmail: 'help@huntvas.com',
-   
+    ContactMobile: '+917007933054',
+    ContactAddress: 'WARD 12 RAJEEV NAGAR CHANDAULI UTTAR PRADESH ,232104',
+    ContactEmail: 'info@mevatiegro.com',
 
 };
 

@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    domains: ['fmenew.sgp1.cdn.digitaloceanspaces.com', 'programs.expertrons.com', 'localhost'],
+    domains: ['fmenew.sgp1.cdn.digitaloceanspaces.com',],
   },
   eslint: {
     ignoreDuringBuilds: true,
