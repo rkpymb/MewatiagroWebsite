@@ -1,0 +1,1063 @@
+.VideoFlexBox{
+    display: flex;
+
+}
+.VideoFlexBoxA{
+    width: 50%;
+    padding: 20px;
+}
+
+.VideoFlexBoxATitle h1{
+    margin: 0;
+}
+.VideoFlexBoxB{
+    width: 50%;
+}
+.EnqBtnboxSide{
+    width: fit-content;
+}
+.Lottiebztnbox2 {
+    width: 70%;
+    
+
+}
+
+.VideoFlexBoxBVideo {
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.VideoFlexBoxBVideo video {
+    width: 100%;
+    
+    border-radius: 20px;
+}
+
+
+.webtypegrid {
+    margin: 10px;
+    display: grid;
+    gap: 1rem;
+
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+
+}
+
+.ApptypegridItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: white;
+}
+
+.ApptypegridItemImg {
+    width: 60px;
+}
+.ApptypegridItemImg {
+    width: 60px;
+}
+
+.ApptypegridItemText {
+    margin-top: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.Apptypegrid {
+    margin: 0 auto;
+    display: grid;
+    gap: 2rem;
+
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+
+}
+
+.bvGraphicsD {
+
+    height: 100%;
+    width: 100%;
+
+    object-fit: cover;
+
+
+
+}
+
+.webtypegridItem {
+    display: flex;
+    align-items: center;
+
+}
+
+.VideobgContainer {
+    position: relative;
+    margin-top: 100px;
+
+}
+.GdVideo2 {
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+
+}
+
+.GdVideo2 video {
+    width: 100%;
+    
+    border-radius: 20px;
+}
+
+.GdVideo1 {
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.GdVideo1 video {
+    width: 100%;
+    
+    border-radius: 20px;
+}
+
+.insideStyles {
+
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+
+}
+
+.WebhWItem {
+    display: flex;
+    /* background: rgb(84, 85, 86); */
+
+    padding: 10px;
+
+    color: white;
+
+
+
+}
+
+.Subtext {
+    padding: 10px;
+}
+
+.WebhWItemB h1 {
+    margin: 0;
+}
+
+.WebhWItemB {
+
+    margin-left: 10px;
+}
+
+.webtypegridItemB {
+    margin-left: 7px;
+
+    font-weight: 500;
+    margin-top: -3px;
+
+}
+
+.HowWorksWebdevBox {
+    padding: 10px;
+}
+
+.CallMain {
+    background-color: #00a6ff;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+
+
+}
+
+
+
+.CenterItem {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FotterDeviderdot {
+    background-image: url(/img/bgd.png);
+    background-repeat: repeat;
+    width: 100%;
+    min-height: 100px;
+    margin-top: 5px;
+}
+
+.Dotbg {
+    background-image: url(/img/bgd.png);
+    background-repeat: repeat;
+
+
+}
+
+.ParallaxCenterBox {
+    color: white;
+    padding: 20px;
+}
+
+.CallMain:hover {
+    background-color: #15ff00;
+    color: rgb(0, 0, 0);
+}
+
+.CallMainText {
+    margin-left: 10px;
+}
+
+.CallMainIcon {
+    margin-top: 6px;
+}
+
+
+.DialogBox {
+    min-width: 100%;
+    min-height: 100px;
+
+}
+
+
+.vShowitworksflexbox2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vShowitworksflexbox {
+    display: flex;
+    justify-content: center;
+}
+
+.vShowitworksflexboxA {
+    width: 50%;
+}
+
+.vShowitworksflexboxBTitle {
+    margin-top: 50px;
+}
+
+
+.vShowitworksflexboxB {
+    width: 50%;
+    margin-left: 20px;
+    padding: 20px;
+}
+.vShowitworksflexboxB2 {
+    width: 50%;
+    margin-left: 30px;
+    
+}
+
+.vShowitworksflexboxB h2 {
+    margin: 0;
+}
+
+.vShowitworksflexboxAImg {
+    width: 100%;
+}
+
+.StepVSItem {
+    display: flex;
+}
+
+.StepVSItemACounter {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    color: #00a6ff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.StepVSItemB {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.StepVSItemB span {
+    font-weight: 700;
+}
+
+.inputBox {
+
+    margin: 10px;
+
+}
+
+.VasGrid1Item2 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 1px solid rgb(101, 97, 90);
+    background-color: white !important;
+    padding: 20px;
+}
+
+.VasGrid1Item {
+    display: flex;
+    border-radius: 10px;
+    border: 1px solid blanchedalmond;
+    padding: 20px;
+}
+
+.VasGrid1ItemA {
+    width: 40%;
+}
+
+.VasGrid1ItemAImg {
+    width: 85px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+}
+
+.VasGrid1ItemB {
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.VasGrid1ItemB span {
+    font-weight: 600;
+}
+
+.VasGrid1 {
+    margin: 0 auto;
+    display: grid;
+    gap: 2rem;
+
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+
+}
+
+.VasGrid3 {
+    margin: 0 auto;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+
+}
+
+.VasGrid3item {
+    width: 200px;
+}
+
+.VasGrid3itemimg {
+    width: 100%;
+}
+
+
+
+.VasGrid2 {
+    margin: 0 auto;
+    display: grid;
+    gap: 2rem;
+
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+
+}
+
+.ServicesGrid {
+    margin: 0 auto;
+    display: grid;
+    gap: 1rem;
+
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+}
+
+.CenterDilog {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputBox input {
+    min-width: 100%;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+.inputBox select {
+    min-width: 100%;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+.Loadingbox {
+    min-width: 100%;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.FormDonebox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    text-align: center;
+}
+
+.FormDoneboxIcon span {
+    font-size: 40px;
+}
+
+.FormDoneboxText span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.CounterBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ColorServices {
+    background-color: #f8f0ea;
+
+}
+
+.ColorServicesVS {
+    background-color: #00a6ff;
+    color: white;
+
+}
+
+.LearnmorebtnText {
+    cursor: pointer;
+}
+
+.LearnmorebtnText:hover {
+    color: red;
+}
+
+.ColorServices2 {
+    background-color: #f8f0ea;
+    margin-top: -10px;
+
+}
+
+.OnlyDesktop {
+    display: block;
+}
+
+.OnlyMobile {
+    display: none;
+}
+
+.SliderimgDesktop {
+    width: 100%;
+    display: block;
+}
+
+.SliderimgMobile {
+    width: 100%;
+
+    display: none;
+}
+
+.SwiperImgae {
+    width: 100%;
+    cursor: pointer;
+}
+
+.MaarueLogo {
+    width: 200px;
+    margin: 5px;
+}
+
+.navlik {
+    font-weight: 600;
+    color: black;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.navboxDesktop {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.MyContainer80 {
+    width: 80%;
+    margin: auto;
+}
+
+.ParalaxContainer {
+    width: 80%;
+    margin: auto;
+
+}
+
+.ParalaxContainerFull {
+    background-color: #ffffff7b;
+}
+
+
+.MyContainer80full {
+    width: 80%;
+    min-height: 100vh;
+    margin: auto;
+}
+
+.TitleC {
+    padding: 10px;
+}
+
+.TitleC h1 {
+    margin: 0;
+    font-size: 25px;
+}
+
+.MyContainer80fullTopDevider {
+    height: 120px;
+}
+
+.sec1itemBox {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.constactbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.sec1itemBoxButonbox {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sec1itemBoxButonbox2 {
+    width: fit-content;
+
+
+}
+
+.sec1item {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.Lottiebztnbox {
+    width: 70%;
+    margin: auto;
+
+}
+
+.sec1itemImg {
+    width: 100px;
+    padding: 20px;
+    background-color: rgb(235, 235, 244);
+    border-radius: 10px;
+}
+
+.TitleCenterDesc {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.TitleCenterDescCenter {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.MainTitleCenter {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+
+.MainTitleCenter h1 {
+    margin: 0;
+}
+
+.sec1itemTitle {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.TitleCenter {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.TitleCenter h1 {
+    margin: 0;
+}
+
+.ServicesItemBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.ServicesItems {
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+
+
+}
+
+
+
+.ServisesIcon {
+    width: 100px;
+}
+
+.Learnmorebtn {
+    display: flex;
+    align-items: center;
+    color: #00a6ff;
+}
+
+.LearnmorebtnIcon {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.ServicesItemBoxContent {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.ServicesItemBoxContent h2 {
+    margin: 0;
+}
+
+.CounterBoxItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 5px;
+    /* border: 1px solid rgb(183, 170, 170); */
+    /* background-color: #15ff00; */
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.CounterBoxItem span {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.FlexboxContactItem2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    width: 40%;
+    text-align: center;
+}
+
+.FlexboxContactItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(183, 170, 170);
+    padding: 20px;
+    width: 20%;
+    text-align: center;
+}
+
+.FlexboxContactItem span {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.TopBtn {
+    background-color: #00a6ff;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+
+
+}
+
+.TopBtn:hover {
+    background-color: #15ff00;
+    color: rgb(0, 0, 0);
+}
+
+.TopBtnText {
+    margin-left: 10px;
+}
+
+.TopBtnIcon {
+    margin-top: 5px;
+}
+
+.Sec1 {
+
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 1100px) {
+
+
+    .FlexboxContactItem {
+        min-width: 100%;
+    }
+
+    .MyContainer80 {
+        width: 100%;
+    }
+
+    .TitleCenter {
+        width: 100%;
+        padding: 20px;
+        text-align: left;
+
+    }
+
+    .Sec1 {
+
+        margin-top: 0;
+    }
+
+    .TitleCenterDescCenter {
+        margin-top: 10px;
+        font-size: 13px;
+        text-align: left;
+    }
+
+    .TitleCenterDesc {
+        padding: 10px;
+        font-size: 12px;
+
+    }
+
+    .TitleCenter h1 {
+        font-size: 20px;
+    }
+
+    .sec1itemBox {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .sec1itemBox::-webkit-scrollbar {
+        display: none;
+    }
+
+    .sec1item {
+        flex-direction: row;
+        min-width: 60%;
+        text-align: left;
+
+    }
+
+    .sec1itemTitle {
+        margin-top: 0;
+        font-weight: 500;
+
+        margin-left: 10px;
+    }
+
+    .sec1itemImg {
+        width: 80px;
+        padding: 10px;
+        background-color: rgb(235, 235, 244);
+        border-radius: 10px;
+    }
+
+    .sec1itemBoxButonbox {
+        width: 100%;
+        padding: 10px;
+
+
+    }
+
+    .OnlyDesktop {
+        display: none;
+    }
+
+    .OnlyMobile {
+        display: block;
+    }
+
+    .SliderimgDesktop {
+        display: none;
+    }
+
+    .SliderimgMobile {
+        display: block;
+    }
+
+
+    .CounterBox {
+        overflow: auto;
+        align-items: normal;
+        justify-content: normal;
+    }
+
+
+    .CounterBox::-webkit-scrollbar {
+        display: none;
+    }
+
+    .ServicesItems {
+        padding: 20px;
+
+
+    }
+
+
+
+    .ServicesItemBoxContent {
+
+
+        margin-left: 0;
+    }
+
+    .navboxDesktop {
+        display: none;
+    }
+
+    .MyContainer80full {
+        width: 100%;
+        min-height: 100vh;
+        margin: auto;
+    }
+
+    .MyContainer80fullTopDevider {
+        height: 100px;
+    }
+
+    .ServicesGrid {
+        margin: 10px;
+        display: grid;
+        gap: 1rem;
+
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+    }
+
+    .CounterBoxItem {
+
+
+        margin: 10px;
+
+        padding: 10px;
+        min-width: 60%;
+        height: 100px;
+
+
+    }
+
+    .CounterBoxItem span {
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .vSCounterbox {
+        padding: 10px;
+    }
+
+    .MainTitleCenter {
+        margin: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .MainTitleCenter h1 {
+        font-size: 20px;
+    }
+
+    .MainTitleCenterDesc {
+        font-size: 12px;
+    }
+
+    .VasGrid1 {
+        gap: 1rem;
+    }
+
+    .vShowitworksflexbox {
+        flex-direction: column;
+    }
+
+    .Mobilepadding10 {
+        padding: 10px;
+    }
+
+    .vShowitworksflexbox2 {
+        flex-direction: column;
+    }
+
+    .vShowitworksflexboxA {
+        width: 100%;
+    }
+
+    .vShowitworksflexboxB {
+        width: 100%;
+        margin-left: 0px;
+
+
+    }
+    .vShowitworksflexboxB2 {
+        width: 100%;
+        margin-left: 0px;
+        padding: 20px;
+
+
+    }
+
+    .vShowitworksflexboxBTitle {
+        text-align: center;
+    }
+
+    .vShowitworksflexboxB h2 {
+        margin: 0;
+    }
+
+    .vShowitworksflexboxBTitle {
+        margin-top: 0;
+    }
+
+    .vShowitworksflexboxAImg {
+        width: 100%;
+    }
+
+    .CallMain {
+        background-color: rgba(255, 255, 255, 0) !important;
+        color: #000000;
+    }
+
+    .ParalaxContainer {
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+
+    }
+
+    .ParalaxContainer h1 {
+        margin: 0;
+        font-size: 20px;
+    }
+
+    .insideStyles {
+
+        padding: 10px;
+        width: 100%;
+        margin: auto;
+
+    }
+
+    .VasGrid3 {
+        margin: 0 auto;
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+
+    }
+
+    .VasGrid3item {
+        width: 100px;
+    }
+    .GdVideo2{
+        width: 90%;
+    }
+    .GdVideo1{
+        width: 100%;
+        padding: 10px;
+    }
+    .VideoFlexBox{
+        display: flex;
+        flex-wrap: wrap-reverse;
+    
+    }
+    .VideoFlexBoxA{
+        width: 100%;
+        padding: 20px;
+    }
+    
+    .VideoFlexBoxATitle h1{
+        margin: 0;
+    }
+    .VideoFlexBoxB{
+        width: 100%;
+    }
+   
+
+
+}
